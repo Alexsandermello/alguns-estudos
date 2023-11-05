@@ -1,0 +1,2 @@
+idade = nome_completo = int(input("informe sua idade:"))
+print(idade, "é um numero excelente!!!")
